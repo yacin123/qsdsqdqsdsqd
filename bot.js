@@ -32,4 +32,4 @@ if (message.content.startsWith(adminprefix + 'setT')) {
 }
 });
 
-client.login("YOUR TOKEN HERE");
+client.login("process.env.USER_TOKEN");
