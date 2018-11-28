@@ -32,4 +32,4 @@ if (message.content.startsWith(adminprefix + 'setT')) {
 }
 });
 
-client.login("MTgxNDIwOTI5OTU0NDgwMTI4.Ds4GLg.YDyR-_iKxraX9kS1ftufaZnOnN0");
+client.login("");
